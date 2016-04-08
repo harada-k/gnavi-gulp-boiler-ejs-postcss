@@ -67,6 +67,7 @@
 - "babel-preset-es2015": "^6.6.0",
 - "babelify": "^7.2.0",
 - "browser-sync": "^2.11.2",
+- "cssnano": "^3.5.2",
 - "del": "^1.2.1",
 - "es6-promise": "3.1.2",
 - "eslint-config-gnavi": "0.0.9",
